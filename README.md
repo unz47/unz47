@@ -1,19 +1,33 @@
 <p align="center">
-  <img src="./assets/header.svg" width="800" alt="$ whoami — s@i · full-stack engineer · tokyo. I build web & mobile apps with TypeScript, run ML models in the browser, and make things move.">
+  <img src="./assets/header.svg" width="800" alt="s@i — full-stack engineer in Tokyo. Mostly TypeScript: Angular, Ionic and NestJS on AWS. Outside work: Rust, mobile apps, shaders, Kaggle.">
 </p>
 
 <p align="center">
-  <img src="./assets/now.svg" width="800" alt="Now building: Desk Buddy — a tray pet that levels up with your CPU (Rust, Tauri); shaders-art — a museum of fragment shaders (GLSL, TypeScript); RSNA Knee MRI — a Kaggle competition (Python).">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/now-dark.svg">
+    <img src="./assets/now-light.svg" width="800" alt="Now: Desk Buddy — A tray pet that levels up with your CPU (Rust, Tauri); shaders-art — A museum of fragment shaders (GLSL, TypeScript); RSNA Knee MRI — Kaggle, weakly-supervised multi-label (Python)">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" width="800" alt="Stack — Frontend: TypeScript, Angular, React / Next.js, Ionic. Mobile: Swift, Kotlin, React Native (Expo). Backend: NestJS, AWS Serverless (Lambda, DynamoDB), Vercel. ML: Kaggle, NLP / BERT, ML on the web. Creative: Three.js, p5.js, GLSL, Blender. Systems: Rust, Tauri, Effect-TS, WebRTC.">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+    <img src="./assets/stack-light.svg" width="800" alt="Stack — Languages: TypeScript, JavaScript, Python, Rust, Swift, Kotlin, Java, GLSL, Bash, Nix, SQL; Frameworks: Angular, Ionic, Capacitor, React, Next.js, React Native, Expo, NestJS, Express, FastAPI, Tauri, Tailwind CSS; Libraries: Effect, RxJS, Drizzle, Three.js, p5.js, shadcn/ui, Vitest, WebRTC, PyTorch, scikit-learn, pandas, NumPy; Platforms &amp; tools: AWS, Vercel, Supabase, Docker, GitHub Actions, Stripe, Claude, Vite, Turborepo, Kaggle, Jupyter, Blender">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/achievements.svg" width="800" alt="Certifications: AWS Certified Solutions Architect – Professional; JDLA Deep Learning for ENGINEER (E資格); Applied Information Technology Engineer (応用情報技術者).">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/certifications-dark.svg">
+    <img src="./assets/certifications-light.svg" width="800" alt="Certifications: AWS Certified Solutions Architect – Professional; JDLA Deep Learning for ENGINEER (E資格); Applied Information Technology Engineer (応用情報)">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/sigmatango"><img src="./assets/key-kaggle.svg" width="200" alt="Kaggle: sigmatango"></a>
+  <a href="https://www.kaggle.com/sigmatango">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/kaggle-dark.svg">
+    <img src="./assets/kaggle-light.svg" width="800" alt="Kaggle: sigmatango">
+  </picture>
+  </a>
 </p>
